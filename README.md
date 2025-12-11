@@ -82,6 +82,7 @@ target: 오늘 알아서 깔끔하고 센스 있게 준비했어.
 ---
 
 ## 📂 Project Structure
+```
 NLP-Slang-Translator/
 │
 ├── data/
@@ -94,4 +95,4 @@ NLP-Slang-Translator/
 ├── slang_generator.py
 ├── requirements.txt
 └── README.md
-
+```
