@@ -82,15 +82,16 @@ target: 오늘 알아서 깔끔하고 센스 있게 준비했어.
 ---
 
 ## 📂 Project Structure
-/NLP-Slang-Translator
+NLP-Slang-Translator/
 │
 ├── data/
-│ └── slang_dataset.csv
+│   └── slang_dataset.csv
 │
 ├── models/
-│ └── kcT5-small/
+│   └── kcT5-small/
 │
 ├── train.py
 ├── slang_generator.py
 ├── requirements.txt
 └── README.md
+
